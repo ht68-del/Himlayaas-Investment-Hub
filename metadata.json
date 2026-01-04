@@ -1,0 +1,7 @@
+{
+  "name": "Himalayan Investment Hub",
+  "description": "A high-yield investment platform for Nepal with multi-level referrals, daily returns, and administrative control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
